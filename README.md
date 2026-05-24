@@ -79,18 +79,17 @@ The project generates:
   
 - Moving Average Charts
   <img width="637" height="512" alt="image" src="https://github.com/user-attachments/assets/9ef2686e-ee55-427b-aa98-73732185a2cf" />
-  
+
 - Trend Analysis Graphs
   <img width="637" height="512" alt="image" src="https://github.com/user-attachments/assets/be0cc66c-367a-4790-ac51-f63a6e18137d" />
-  
+
 - Seasonal Decomposition Plots
    <img width="637" height="512" alt="image" src="https://github.com/user-attachments/assets/b8b75e25-089b-4738-a31f-6a6040b2e96f" />
  
 - ARIMA Forecast Graphs
   <img width="637" height="512" alt="image" src="https://github.com/user-attachments/assets/cb42aba7-6138-4fa3-851a-f1ff3840c9ff" />
-  
+
 - Algorithmic Trading Signals
   <img width="637" height="512" alt="image" src="https://github.com/user-attachments/assets/41c7eb3b-ab82-49e4-a1f1-8c6d1c241896" />
-
       
 
